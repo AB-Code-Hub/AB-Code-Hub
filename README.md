@@ -5,7 +5,7 @@ I'm a passionate UI/UX Developer dedicated to crafting intuitive and engaging us
 - 🔭 I’m currently working on (Netflix Clone)
 - 🌱 I’m learning MERN Stack ( HTML5,CSS3,Javascript, React,Express.js, Node.js,MongoDB,)
 - 👯 I’m looking to collaborate on (HTML/CSS, MERN PROJECTS)
-- 📫 How to reach me:  (e-mail - Mobilal560@gmail.com)  ( linkedin -  (BILAL CHAUDHARY -For direct link scroll down) ) 
+- 📫 How to reach me:  (e-mail - Mobilal560@gmail.com)  ( linkedin - BILAL CHAUDHARY ) 
 - ⚡ Fun fact: [Collabrative for Team and maintiang good nature]
 
 - 🎨 Skills & Tools
